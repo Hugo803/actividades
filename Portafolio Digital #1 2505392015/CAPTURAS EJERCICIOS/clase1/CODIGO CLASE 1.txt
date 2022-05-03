@@ -1,0 +1,101 @@
+import UIKit
+
+var str = "Hello, playground"
+let test1 = "junio"  //Constante
+// Variables
+var var1=1
+var var2=2
+str="uno"
+var suma:Int = 0
+suma=var1+var2
+print("El resultado es: \(suma) de la suma de dos numeros que son: \(var1) y \(var2)" )
+
+// terminando el primer ejemplo
+
+/*
+ Elaborar un programa que reste dos numeros cualquiera de tipo entero
+ */
+
+var num1:Int=0
+var num2:Int=0
+var resta=0
+num1=7
+num2=2
+resta=num1-num2
+print("El resultado es: \(resta) de la resta de dos numeros que son \(num1) y \(num2)")
+
+// Variable decimal tipo Float
+var decimal:Float=3.5
+
+
+var prueba:Int8 = 127 // 8 bits 0 es la primer posicion.(Desde 0 hasta 127)
+
+var v5:Int8 = -128 // para cvantidad negativas 8bits es de -1 hasta -128
+// Ejemplo 3
+var v1:Float = 3.5
+var v2:Float = 5.6
+var sumad:Float = 0
+var restad:Float = 0
+sumad=v1+v2
+restad=v1-v2
+print("Suma de decimales = \(sumad)")
+print("Resta de decimales = \(restad)")
+//Fin de la clase uno
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--<p>import UIKit </p>
+										<p>var str = "Hello, playground" </p>
+										<p>let test1 = "junio"  //Constante </p>
+										<p>// Variables
+										<p>var var1=1
+										<p>var var2=2
+										<p>str="uno"
+										<p>var suma:Int = 0</p>
+										<p>suma=var1+var2</p>
+										<p>print("El resultado es: \(suma) de la suma de dos numeros que son: \(var1) y \(var2)" )</p>
+
+										<p>// terminando el primer ejemplo</p>
+
+										<p>/*</p>
+										<p> Elaborar un programa que reste dos numeros cualquiera de tipo entero</p>
+										<p> */</p>
+
+										<p>var num1:Int=0</p>
+										<p>var num2:Int=0</p>
+										<p>var resta=0</p>
+										<p>num1=7</p>
+										<p>num2=2</p>
+										<p>resta=num1-num2</p>
+										<p>print("El resultado es: \(resta) de la resta de dos numeros que son \(num1) y \(num2)")</p>
+
+										<p>// Variable decimal tipo Float</p>
+										<p>var decimal:Float=3.5</p>
+
+
+										<p>var prueba:Int8 = 127 // 8 bits 0 es la primer posicion.(Desde 0 hasta 127)</p>
+
+										<p>var v5:Int8 = -128 // para cvantidad negativas 8bits es de -1 hasta -128</p>
+										<p>// Ejemplo 3</p>
+										<p>var v1:Float = 3.5</p>
+										<p>var v2:Float = 5.6</p>
+										<p>var sumad:Float = 0</p>
+										<p>var restad:Float = 0</p>
+										<p>sumad=v1+v2</p>
+										<p>restad=v1-v2</p>
+										<p>print("Suma de decimales = \(sumad)")</p>
+										<p>print("Resta de decimales = \(restad)")</p>
+										<p>//Fin de la clase uno</p>-->

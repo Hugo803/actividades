@@ -1,0 +1,33 @@
+body {
+ margin: 0;
+ padding: 0;
+ padding-left: 15%; }
+
+#header {
+ position: absolute;
+  background-color: rgb(205,205,235);
+ top: 0;
+ left: 0;
+ height: 10%;
+ width: 100%;
+ border: 0;
+}
+ 
+#content {
+ position: absolute;
+ background-color: rgb(235,235,205);
+ top: 10%;
+ left: 15%;
+ border: 0;
+ height: 90%;
+ width: 85%; }
+
+ #menu {
+ position: absolute;
+ background-color: rgb(215,215,205);
+ top: 10%;
+ left: 0;
+ border: 0;
+ height: 90%;
+ width: 15%; }
+ 
